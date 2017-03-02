@@ -1,4 +1,4 @@
-# Python-example-codes
+# studies
 =====================
 
 This is folder with my example codes.
